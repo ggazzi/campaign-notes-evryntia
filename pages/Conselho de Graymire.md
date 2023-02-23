@@ -1,4 +1,4 @@
-tags:: Grupo
+tags:: Grupos
 
 - Corpo administrativo de [[graymire]]
 - Membros:

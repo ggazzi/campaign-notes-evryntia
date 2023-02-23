@@ -1,11 +1,8 @@
 :PROPERTIES:
-:ID:       07f28fe3-1051-4592-bd45-98e6096c213c
+:id: 07f28fe3-1051-4592-bd45-98e6096c213c
 :END:
 #+title: Tribo Darkbrew
-#+author: Guilherme Grochau Azzi
-#+date: 2022-08-28
-#+hugo_lastmod: 2022-08-28
-#+hugo_section: Grupos
+#+tags: Grupos
 
-* #Grupo
+* #Grupos
 * Era uma tribo em Idrarus e não existe mais.

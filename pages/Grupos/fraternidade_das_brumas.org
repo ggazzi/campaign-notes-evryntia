@@ -1,13 +1,10 @@
 :PROPERTIES:
-:ID:       5faf082e-6eaf-43eb-90dc-4c56846b777f
+:id: 5faf082e-6eaf-43eb-90dc-4c56846b777f
 :END:
 #+title: Fraternidade das Brumas
-#+author: Guilherme Grochau Azzi
-#+date: 2022-07-31
-#+hugo_lastmod: 2022-10-16
-#+hugo_section: Grupos
+#+tags: Grupos
 
-* #Grupo
+* #Grupos
 * Organização em [[id:874229de-7601-41d8-9d0d-298b06eb4820][Graymire]] que ajuda pessoas deixadas na mão pela guarda oficial da cidade, que tende a ajudar só um certo grupo de pessoas.
 * Ariadne é a líder e uma das conselheiras da cidade, que tem pouca influência.
 Mora nos arredores da cidade, quando na cidade ela fica na [[id:72d1298b-2f15-49e3-8c3b-71b3309541f6][Taverna das Graças]].
