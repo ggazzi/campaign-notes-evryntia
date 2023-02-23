@@ -1,11 +1,6 @@
 :PROPERTIES:
-:ID:       7d3d42d3-be4b-4bce-b24b-8cc555a5c8a8
+:id: 7d3d42d3-be4b-4bce-b24b-8cc555a5c8a8
 :END:
-#+title: Khreven
-#+author: Guilherme Grochau Azzi
-#+date: 2022-07-28
-#+hugo_lastmod: 2022-07-28
-#+hugo_section: Lugares
+#+tags: Lugares, Evryntia
 
-* #Lugar
-
+*

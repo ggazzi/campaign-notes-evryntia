@@ -1,21 +1,13 @@
 :PROPERTIES:
-:ID:       09a29eb0-0eb5-4856-93c4-1c913bfd1f16
+:id: 09a29eb0-0eb5-4856-93c4-1c913bfd1f16
 :END:
-#+title: Niridia
-#+author: Guilherme Grochau Azzi
-#+date: 2022-07-28
-#+hugo_lastmod: 2022-10-16
-#+hugo_section: Lugares
-
-
-* #Lugar
+#+tags: Lugares, Evryntia
 
 * Reino no sudoeste do continente, criado por [[id:60652aaf-fc0e-4308-80de-d3581baa45df][Anahita]].
 É bastante decentralizado, uma reunião de várias cidades bastante independentes e cada uma tem sua própria estrutura política.
 Em geral, a classe mercante é a mais influente, mesmo quando há nobreza local.
 
 Os mercantes de Niridia geralmente tem passe livre nos outros reinos, o que não se aplica à maioria das pessoas.
-
 * História Recente
 
 De maneira bastante atípica, dois anos antes do início da campanha, [[id:31a5205f-1cb5-4f84-90da-95ae38af747e][Idrarus]] atacou [[id:ee4063a7-f18d-4bd1-a672-3dae26b17279][Fallendia]], a cidade mais oriental de Niridia. Normalmente Idrarus não faria esse tipo de ataque sem provocação, mas [[id:e46c5e9b-b97c-4625-82cf-338aefb924bf][Clemmo Trevthram]], o Galtir em Idrarus, tem ódio profundo de [[id:7d3d42d3-be4b-4bce-b24b-8cc555a5c8a8][Khreven]] e queria a cidade para ter uma rota de invasão livre de montanhas ou rios.
@@ -23,7 +15,6 @@ De maneira bastante atípica, dois anos antes do início da campanha, [[id:31a52
 A cidade foi saqueada não pelas forças de Idrarus, mas pelos mercenários [[id:24acd65c-3cae-4548-b828-e9d6e725a678][Suor e Sangue]], de maneira que Clemmo os pudesse usar como bode expiatório. De fato, ele renegou os mercenários para fazer um tratado com Niridia, pagando altas sanções de guerra porém mantendo Fallendia como parte de seu território.
 
 Isso causou a ira de [[id:f95275a7-63c8-413e-ae88-9a652089eee8][Ida Baruara]], que desde então dedicou mais recursos à [[id:389c7ba3-a51b-4281-ae6e-0e91c853cb1c][Brigada de Niridia]] para proteger as fronteiras. Sob suas ordens, a brigada caçou e dizimou o grupo de mercenários como vingança pelo saque de Fallendia.
-
 * Povo
 
 As pessoas costumam ser muito approachable.

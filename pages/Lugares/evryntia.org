@@ -1,12 +1,6 @@
 :PROPERTIES:
-:ID:       3d14d4db-bd8a-47c4-90fe-34ea6a52e3f4
+:id: 3d14d4db-bd8a-47c4-90fe-34ea6a52e3f4
 :END:
-#+title: Evryntia
-#+author: Guilherme Grochau Azzi
-#+date: 2022-10-16
-#+hugo_lastmod: 2022-10-16
-#+hugo_section: Lugares
+#+tags: Lugares
 
-
-* #Lugar
-
+*

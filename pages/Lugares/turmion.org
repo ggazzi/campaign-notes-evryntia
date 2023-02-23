@@ -1,14 +1,7 @@
 :PROPERTIES:
-:ID:       b919a33d-301d-417d-abf5-8123e28aef9d
+:id: b919a33d-301d-417d-abf5-8123e28aef9d
 :END:
-#+title: Turmion
-#+author: Guilherme Grochau Azzi
-#+date: 2022-10-16
-#+hugo_lastmod: 2022-10-16
-#+hugo_section: Lugares
-
-
-* #Lugar
+#+tags: Lugares
 
 * Lugar entre o plano material de Evryntia e planos "superiores".
 Sede dos observadores.

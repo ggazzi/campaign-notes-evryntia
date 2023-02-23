@@ -1,7 +1,7 @@
 :PROPERTIES:
 :id: 874229de-7601-41d8-9d0d-298b06eb4820
 :END:
-#+tags: Lugar
+#+tags: Lugares, Niridia
 
 * Conhecida por ser um resort para pessoas ricas.
 Extremamente focado em turismo, também fazem roupas finas.

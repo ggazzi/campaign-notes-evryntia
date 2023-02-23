@@ -1,11 +1,6 @@
 :PROPERTIES:
-:ID:       444367d9-562a-4ed6-baa0-d74633f88409
+:id: 444367d9-562a-4ed6-baa0-d74633f88409
 :END:
-#+title: Hibok
-#+author: Guilherme Grochau Azzi
-#+date: 2022-07-31
-#+hugo_lastmod: 2022-07-31
-#+hugo_section: Lugares
+#+tags: Lugares, Niridia
 
-* #Lugar
 * Entre Brenitte e Greymire. [[Niridia]]

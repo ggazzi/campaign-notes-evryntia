@@ -1,11 +1,7 @@
 :PROPERTIES:
-:ID:       29b53953-6a17-42ac-83c5-eb9ef460c572
+:id: 29b53953-6a17-42ac-83c5-eb9ef460c572
+:title: Alabaster
 :END:
-#+title: Alabaster
-#+author: Guilherme Grochau Azzi
-#+date: 2022-10-16
-#+hugo_lastmod: 2022-10-16
-#+hugo_section: Lugares
+#+tags: Lugares, Khreven
 
-* #Lugar
 * Cidade em Khreven de onde [[id:9f641a40-cb99-4fad-9139-2aa5ae1274ce][Dare]] e [[Lady Luck]] vêm.
