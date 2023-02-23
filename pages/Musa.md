@@ -1,1 +1,1 @@
-#+tags: Personagem, Merfolk, Druid
+- tags:: Personagens, Merfolk, Druid

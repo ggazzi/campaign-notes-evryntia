@@ -31,14 +31,7 @@ Loja de Aventureiros: Miria
 No verão há um grande festival, celebrando o aniversário da cidade e reunindo muitas pessoas em busca de entretenimento.
 Na avenida e na praça principais, aparecem várias lojas temporárias vendendo comidas e outras coisas.
 Há várias atividades e competições durante.
-**
-* Conselho
+* [[Conselho de Graymire]]
 :PROPERTIES:
-:ID:       f6ee6518-550f-4e1e-9843-fff4e7eb812b
+:id: f6ee6518-550f-4e1e-9843-fff4e7eb812b
 :END:
-
-- [[id:1a31bb90-0bda-4b04-8d56-178274a2ad92][Lagrine]]: representante da burguesia
-- [[id:90ac266a-c36d-4abc-9098-2afe610eb196][Simon]]: representante dos nobres
-- [[id:1a949eff-033b-417d-b1da-136d666b0f09][Eruan]]: representante da "elite intelectual"
-- [[id:9017d920-7dd4-4a16-8809-82afee8413f9][Liam]]: o membro mais moderado, tenta conciliar a visão de Ariadne com os demais
-- [[id:fd5c4ab6-97c9-4793-bc27-b68924b81b35][Ariadne]]: mais ligada ao porto e à população não rica da cidade.

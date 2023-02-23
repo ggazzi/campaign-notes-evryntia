@@ -1,0 +1,1 @@
+alias:: Deus, Deusa

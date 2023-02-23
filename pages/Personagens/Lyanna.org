@@ -1,4 +1,4 @@
-#+tags: Personagem, Human, Bard
+#+tags: Personagens, Human, Bard
 
 * [[../../assets/lyanna_1668889018695_0.jpg]]
 * Descrição do ChatGPT
