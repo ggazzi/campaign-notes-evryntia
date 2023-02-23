@@ -1,0 +1,1 @@
+- Cidade de [[Idrarus]], na região mais fértil de Evryntia

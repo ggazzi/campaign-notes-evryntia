@@ -1,0 +1,62 @@
+:PROPERTIES:
+:ID:       6816ab59-817f-4c00-a1b7-97e2cd2f253d
+:END:
+#+title: 2022-07-31
+#+author: Guilherme Grochau Azzi
+#+date: 2022-07-31
+#+hugo_publishdate: 2022-07-31
+#+hugo_lastmod: 2022-08-28
+#+hugo_section: posts
+
+* Recrutados no Caminho
+
+Numa taverna em [[id:444367d9-562a-4ed6-baa0-d74633f88409][Hibok]] eu cantei nossa aventura, fomos abordados por [[id:38252bb0-ca62-487b-b71a-beac10bcbcea][Nisos]], vindo de [[id:874229de-7601-41d8-9d0d-298b06eb4820][Graymire]].
+Há poucas semanas tem ataques de criaturas não reconhecidas, atacaram até a cidade.
+São meio aberrações, meio com tentáculos, alguma inclusive sobrevoou o mercado.
+Uma pessoa morreu no pier. Também houve gente ferida, uma perto do cemitério, onde também tinha algo undead.
+
+Nisos nos recruta para investigar e descobrir a origem das criaturas, se possível acabar com elas.
+O pagamento vai ser feito pelo conselho da cidade, ele nos acompanharia até a cidade.
+Aceitamos fazer isso e viajamos por 5 dias para Graymire junto com uma caravana.
+
+Não fomos atacados, mas encontramos os restos de uma caravana pequena no caminho, menos de dez pessoas.
+Pareciam mortos há 4-5 dias, já bem decompostos.
+Tinha marcas de ventosas no pescoço das pessoas ali.
+Não foi saqueada, Dare achou dinheiro (que dividiu conosco) e um [[id:ec94e816-d38d-4170-87a1-84b4488157e7][Tankard of Sobriety]].
+
+Chegando em Graymire, Nisos nos leva na [[id:72d1298b-2f15-49e3-8c3b-71b3309541f6][Taverna das Graças]], onde nossa estadia está coberta pelo [[id:f6ee6518-550f-4e1e-9843-fff4e7eb812b][Conselho]] da cidade.
+A cidade está estranhamenta vazia, ainda mais pro vim de primavera e perto do festival da cidade.
+Temos um encontro marcado com um conselheiro no dia seguinte.
+As pessoas nas ruas estão visivelmente apreensivas.
+
+Chegamos na taverna, que também está estranhamente vazia, encontramos Dira o guarda de lá.
+Ouvimos que [[id:fd5c4ab6-97c9-4793-bc27-b68924b81b35][Ariadne]] não aparece na cidade há quase uma semana, estranhamente.
+
+Amanhã falaríamos com [[id:9017d920-7dd4-4a16-8809-82afee8413f9][Liam]], que é um centrista conciliador no conselho, acaba sendo o lider orgânico.
+
+Eu me apresento no palco e ganho 1gp.
+Depois janto com Dare e Lucky, Lucky aparentemente não vai agir quanto a sua atração por Nisos.
+Muito bêbada, eu falo sobre como era no festival.
+Dare e Lucky falam em tirar as "gorjetas" do pessoal rico que é pão duro e não dá gorjeta normalmente.
+
+* Contratados pelo Conselho
+
+Após a café da manhã, Dira nos leva pro conselho da cidade.
+Lucky tenta conversar com Dira, mas ele realmente não fala.
+
+Entramos no conselho, tem uma mesa de mármore para algo como 10 pessoas, [[id:9017d920-7dd4-4a16-8809-82afee8413f9][Liam]] estava nos esperando. Ele tenta cumprimentar Dare primeiro, mas eu me intrometo.
+Segundo Liam: testemunhas dizem que as criaturas vêm da direção do lago; Eruan, outro conselheiro, que é Headmaster da [[id:5aaf62f8-d844-4a04-bfbb-401ee8a19ce8][escola de mitos e lendas]], diz que é punição divina.
+
+Há boatos de pessoas que voltaram das névoas sem nenhuma memória.
+Dois pescadores tentaram socorrer o rapaz que morreu no pier, relataram que ele foi arrastado por tentáculos e, quando resgatado, já estava afogado. Sullivan é o estivador que morreu.
+
+O coveiro, Ian, foi a pessoa ferida, no meio da noite.
+Ouviu uns chants em uma língua estranha, e viu uma criatura morto-viva surgir.
+Ele conseguiu fugir e depois outras pessoas conseguiram derrotar a criatura.
+Os restos da criatura foram investigados por [[id:1a949eff-033b-417d-b1da-136d666b0f09][Eruan]], era o cadáver de uma moça que morreu há mais.
+Os ataques foram aparentemente todos à noite.
+
+Pagamento é 150gp no mínimo, mais dinheiro dependendo do que for enfrentado.
+
+Discutimos isso entre nós e decidimos aceitar a oferta. Se parecer meio ruim, vamos enrolar a investigação e arranjar dinheiro extra por meios alternativos.
+Assinamos um contrato como "Os Vingativos", recebemos também uma carta de introdução do conselho.

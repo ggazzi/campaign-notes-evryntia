@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       389c7ba3-a51b-4281-ae6e-0e91c853cb1c
+:END:
+#+title: Brigada de Niridia
+#+author: Guilherme Grochau Azzi
+#+date: 2022-07-28
+#+hugo_lastmod: 2022-07-29
+#+hugo_section: Grupos
+
+* #Grupo
+* Principal força militar de [[id:09a29eb0-0eb5-4856-93c4-1c913bfd1f16][Niridia]].
+Não é tanto um exército profissional, sendo mais para uma milícia, dada a natureza desse reino.

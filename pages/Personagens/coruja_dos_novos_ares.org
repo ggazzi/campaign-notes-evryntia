@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       df52cb18-1223-4b62-bf84-e4c50658a7ac
+:END:
+#+title: Coruja dos Novos Ares
+#+author: Guilherme Grochau Azzi
+#+date: 2022-07-29
+#+hugo_lastmod: 2022-07-29
+#+hugo_section: Personagens
+* #Personagem
+
+* Mago de [[id:e0cf71c7-786c-4154-8b87-e57ceeb6f7b7][Gaelyra]] que quer se tornar um deus.
+Seus seguidores praticam necromancia.
+
+Ufma seguidora dele chamada Hiedra comprou do [[id:24acd65c-3cae-4548-b828-e9d6e725a678][Suor e Sangue]] crianças escravas, vítimas do saque de [[id:ee4063a7-f18d-4bd1-a672-3dae26b17279][Fallendia]], para seus experimentos necromânticos.
+Essas crianças foram resgatadas por um grupo da [[id:389c7ba3-a51b-4281-ae6e-0e91c853cb1c][Brigada de Niridia]], junto com outras vítimas adultas.

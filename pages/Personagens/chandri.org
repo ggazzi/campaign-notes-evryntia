@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       1f5af35a-d5a4-4c29-8396-60a3b66c213e
+:END:
+#+title: Chandri
+#+author: Guilherme Grochau Azzi
+#+date: 2022-10-16
+#+hugo_lastmod: 2022-10-16
+#+hugo_section: Personagens
+
+* #Personagem
+
+* 
+- Raça: Tiefling
+
+É uma batedora dos observadores.

@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       ced5372e-f547-43ca-bd8f-d9125e203a4a
+:END:
+#+title: Eulália
+#+author: Guilherme Grochau Azzi
+#+date: 2022-10-16
+#+hugo_lastmod: 2022-10-16
+#+hugo_section: Personagens
+
+* #Personagem
+
+* Galtir do [[id:478a5f10-377a-4a95-8c0b-7e17c2461a69][Dragão Dourado]], vive em [[id:b919a33d-301d-417d-abf5-8123e28aef9d][Turmion]].

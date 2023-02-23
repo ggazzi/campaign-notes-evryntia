@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       6756f4ad-ac45-480f-8ba5-0d3cdc3ac869
+:END:
+#+title: Ysera
+#+author: Guilherme Grochau Azzi
+#+date: 2022-07-28
+#+hugo_lastmod: 2022-07-28
+#+hugo_section: Lugares
+
+* #Lugar
+

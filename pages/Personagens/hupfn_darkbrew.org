@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       c0af6640-808a-4266-97a2-2097c0cb7af2
+:END:
+#+title: Hupfn Darkbrew
+#+author: Guilherme Grochau Azzi
+#+date: 2022-08-28
+#+hugo_lastmod: 2022-08-28
+#+hugo_section: Personagens
+
+* #Personagem
+
+* 
+- Raça: ??

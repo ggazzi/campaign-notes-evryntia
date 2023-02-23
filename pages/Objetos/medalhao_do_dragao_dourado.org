@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       7bc939bc-8a69-44a9-885a-1b82283b9945
+:END:
+#+title: Medalhão do Dragão Dourado
+#+author: Guilherme Grochau Azzi
+#+date: 2022-10-16
+#+hugo_lastmod: 2022-10-16
+#+hugo_section: Objetos
+
+* #Objeto
+
+ 

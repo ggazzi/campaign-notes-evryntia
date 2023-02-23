@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       9e13a5d3-9bf1-4677-84cb-540d2144e173
+:END:
+#+title: Brenitte
+#+author: Guilherme Grochau Azzi
+#+date: 2022-07-28
+#+hugo_lastmod: 2022-07-31
+#+hugo_section: Lugares
+
+
+* #Lugar
+
+* Cidade no leste de [[id:09a29eb0-0eb5-4856-93c4-1c913bfd1f16][Niridia]], próxima da fronteira com [[id:e0cf71c7-786c-4154-8b87-e57ceeb6f7b7][Gaelyra]]. Sua cidade-irmã é no país vizinho é [[id:6756f4ad-ac45-480f-8ba5-0d3cdc3ac869][Ysera]].

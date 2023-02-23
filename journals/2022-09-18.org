@@ -1,0 +1,89 @@
+:PROPERTIES:
+:ID:       a8e838a2-94e9-43a5-9fc7-3917912908e3
+:END:
+#+title: 2022-09-18
+#+author: Guilherme Grochau Azzi
+#+date: 2022-09-18
+#+hugo_publishdate: 2022-09-18
+#+hugo_lastmod: 2022-10-16
+#+hugo_section: posts
+
+* Traídos na Taverna
+
+Descemos na taverna e vemos Ariadne já por lá.
+Ariadne pergunta de Jane e Hupfn, estranha que els ainda não desceram.
+Eu vou com ela investigar, ela visivelmente alarmada.
+Nisso, ela me mostra qual o quarto que ela geralmente usa, no fim do corredor do primeiro andar.
+
+Quando entramos no quarto de Jane, vemos uma bagunça com sinais de struggle.
+Ariadne fica visivelmente estarrecida e não consegue fazer nada por alguns momentos.
+Lucky e Dare se juntam a nós e vamos olhar também o quarto de Hupfn.
+Lá, vemos um quarto intacto porém vazio. Não há sinais de ter sido habitado: ou ele não passou no quarto, ou se esforçou para apagar qualquer indício da sua presença.
+Também não há sinais de magia no quarto dele.
+
+Lucky nota, no quarto de Jane, que ela parece ter sido tirada à força da cama.
+Ela avisa que viu um rastro de abjuração no quarto inteiro, e que a porta parece ter sido lockpicked de uma maneira muito competente.
+Perguntamos se teria alguém a essa hora da noite vigiando a taverna.
+Seria Diran, mas se for muito tarde nem ele seria.
+Ariadne também investiga o quarto de Jane e encontra uma pegada de anão.
+
+* Coletando nosso Cachê
+
+Discutindo nosso pagamento, Ariadne nos garante que cobre nosso preço.
+Decidimos buscar nosso pagamento e nos preparar para a aventura, depois encontrar Lyanna na
+taverna.
+Ariadne propõe que a gente fique com o crédito e o pagamento.
+Perguntada sobre a comissão da irmandade, ela fala que não precisa pois eles já recebem suas doações, mas estava claramente omitindo alguma fonte de renda.
+
+Chegando no conselho da cidade, somos recebidos por Gertrudes.
+Ela nos pede para esperar, pois Liam está em uma reunião.
+Depois de uma meia hora, sai um grupo de pescadores da sala e Gertrudes nos manda lá.
+
+Contamos a nossa aventura para Liam, que acredita nos nossos "embelezamentos".
+Recebemos nosso pagamento (50gp/pessoa) e conseguimos negociar um pagamento de 300gp/pessoa para resolver o problema.
+Apesar de relutante, Liam acaba por aceitar e até nos dá um adiantamento de 100gp/pessoa.
+
+Vamos na loja de aventureiros e somos cumprimentados por Miria, que está muito feliz em ter algum freguês apesar da crise. Não conseguimos negociar um desconto. Vamos ao ferreiro Lenny para os irmãos buscarem equipamento.
+
+* Uma Aventura com Ariadne
+
+Encontramos Ariadne na taverna.
+Ela avisa que precisamos ir para a casa dela, que fica a uns dois dias de distância da cidade.
+Ela oferece usar um colar que ela tem, que pode nos transportar para a casa dela uma vez (e nunca mais).
+Decidimos fazer isso para evitar emboscadas no caminho.
+
+Chegamos na casa dela, que é uma cabana relativamente modesta.
+Estamos em uma sala com um círculo rúnico claramente ativo.
+Na parede há um mural de um dragão dourado.
+Chonky parece agitado com o que está acontecendo fora da cabana.
+Ariadne explica que a casa dela fica numa pequena floresta com peculiaridades semelhantes ao lago, e provavelmente haja alguma criatura fora da casa.
+Lucky pergunta se ela está okay com isso, e Ariadne responde que há proteções.
+
+Lucky me dá uma vela que emite luz sem nem estar ativa.
+Damos as mãos mais uma vez e somos transportados para outro lugar.
+Chegamos num lugar gramado, enevoado e com até cheiro de umidade.
+Nos deparamos com um portal/arco meio em ruínas.
+Atrás de nós tem a orla de algum corpo de água, nos dá a impressão de estarmos em uma ilha.
+O local está banhado pela luz branca da lua, bastante intensa.
+
+Lucky confirma com Ariadne que estamos em uma ilha no meio lago.
+É um [[id:902a71ab-818e-4796-bf7a-ed07529da91d][templo]] que aparentemente é "do início e do fim", e é nele que fica a fonte das criaturas.
+Decidimos entrar nas ruínas, onde há poças de água cristalina.
+Lucky manda o Small para reconhecer o terreno, olhando pelos olhos dele.
+Ariadne avisa que a fonte deve estar no segundo andar.
+
+Começamos a atravessar a sala pela lateral, evitando a água.
+Olhando por small, Lucky enxerga duas gárgulas.
+Perguntando para Ariadne, ela fica surpresa pois não haviam gárgulas aqui.
+Suspeitamos que isso seja uma emboscada e Lucky faz as tochas ficarem mais fortes.
+Nisso, ambas as "gárgulas" abrem o seu 01 olho.
+Com leve dificuldade e cuidado para não gastar muitos recursos, conseguimos matar os dois.
+
+Lucky manda Small subir ao andar de cima através de um dos buracos no teto.
+Ele vê dois(?) círculos de teleportação, além de um enorme buraco no tecido da realidade que parece estar despejando algo/alguma energia. Ariadne chama isso de ferida planar.
+Ariadne é uma das poucas pessoas que consegue, com ajuda de um medalhão, absorver essa energia e remendar a ferida.
+Essa é a primeira dessas feridas, segundo Ariadne, e mais virão.
+
+Começamos a subir para o segundo andar e conseguimos sentir os efeitos do buraco.
+
+(Nota: Dare terminou com uma inspiração bárdica por mais ~9 minutos)

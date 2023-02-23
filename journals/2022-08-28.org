@@ -1,0 +1,61 @@
+:PROPERTIES:
+:ID:       cd463d59-39a7-42e9-bbaa-10eff5736e37
+:END:
+#+title: 2022-08-28
+#+author: Guilherme Grochau Azzi
+#+date: 2022-08-28
+#+hugo_publishdate: 2022-08-28
+#+hugo_lastmod: 2022-09-18
+#+hugo_section: posts
+
+* Um Novo Aliado
+
+Saindo do conselho, Dira nos chama de volta à [[id:72d1298b-2f15-49e3-8c3b-71b3309541f6][Taverna das Graças]]. Decidimos ir pra lá almoçar.
+Entrando, encontramos [[id:c0af6640-808a-4266-97a2-2097c0cb7af2][Hupfn Darkbrew]], "da famosa [[id:07f28fe3-1051-4592-bd45-98e6096c213c][tribo Darkbrew]]", diz que fica a 15 dias de viagem de Idrarus. A tribo dele foi atacada quando ele era jovem e desde então ele vaga por florestas, aparentemente tinha vários instrumentistas nela também..
+Ele parece interessado em ajudar contra os monstros por motivos nobres.
+
+Lucky é pouco estratégica na conversa, falando sobre dinheiro e sobre ele ficar na linha de frente.
+Eu falo na cabeça dela para ela não falar disso no momento.
+Durante o almoço ela fica olhando desconfiada para mim.
+* Investigando no Cemitério de [[graymire]] 
+
+Chegamos no cemitério, que é médio, mas é totalmente visível de qualquer ponto dele.
+Há duas pessoas ali, um senhor e um jovem, trabalhando.
+
+O senhor é o Ian, o coveiro, que nos leva às duas covas de onde saíram os mortos-vivos. Os nomes mais próximos são Percival Doric, (perguntar os outros dois p/ Conrado). Fica no canto do cemitério, onde pessoas mais pobres são enterradas. Ambos os zumbis eram indigentes anônimos, mortos há pouco tempo. Parecia que foram incitadas a atacar, com garras e mordidas. Os chants que ele ouviu antes vieram do centro do cemitério, onde há uma capela. Não há nada de interessante nos buracos de onde saíram os mortos-vivos. Os demais túmulos na volta não tem nenhum sinal de algo estranho.
+Os mortos-vivos foram levados para a [[id:5aaf62f8-d844-4a04-bfbb-401ee8a19ce8][Escola de Mitos e Lendas]].
+O moço jovem chama Leandro, é neto do Ian e o está ajudando em vez de trabalhar como sempre na venda de legumes da família.
+
+Vamos investigar a capela, Dare e Lucky primeiro.
+É uma pequena sala com um altar de Anahita com velas e um alçapão que desce para um ossuário.
+Investigando a capela, Dare encontra um rastro de gosma, parece pingado de uma criatura média, inclusive adjacente ao alçapão.
+Perto do teto parece que houve algo empoleirado, também há rastros de gosma por ali.
+A gosma é verde e tem cheiro de morte.
+Lucky detecta magias na sala e vê resquícios de conjuração com traços de necromancia próximo ao teto.
+Dare e Hupfn descem pelo alçapão e vêem o ossuário, não há nada de interessante nem traço de magia lá.
+
+Decidimos ficar meio escondidos observando durante a noite.
+* Combate na Capela
+
+Ao anoitecer, baixa um pouco de névoa.
+Durante a noite, Lucky vê uma fenda se abrir no teto da capela e um bicho com asas e "uma barbicha escrota e um mega cabeção" sair de lá.
+Nos aproximamos da capela tentando ser silenciosos, mas Lucky chuta uma pedra e vê que a criatura nos percebe.
+Começamos a ouvir um chanting ressoar macabramente no cemitério inteiro.
+Vemos quatro zumbis levantarem dos túmulos em vários pontos do cemitério.
+
+Durante a batalha, surge [[id:fd5c4ab6-97c9-4793-bc27-b68924b81b35][Ariadne]] com [[id:9b7d62e9-e0dc-41c5-a8a4-f46b2ff2b56c][Jane]] e fala para nos ajudar contra os zumbis.
+Conseguimos derrotar os zumbis rapidamente, mesmo tendo aparecido mais um durante a luta.
+Entramos na capela, o mostro conjura uma cópia dele.
+Apanhamos um pouco, mas conseguimos matar o original, e nisso o outro monstro desaparece.
+* Muitos Mistérios
+
+Ariadne e Jane nos reconhecem como os aventureiros.
+Ela e Jane nos informam que tem uma ideia de onde isso vem, que não conseguem explicar mas e podem nos levar lá para entender.
+Aparentemente essas criaturas indicam a vinda de um apocalipse ou algo do tipo, portanto se nós não ajudarmos agora, eventualmente a gente provavelmente seria afetado.
+Jane também é membro da [[id:5faf082e-6eaf-43eb-90dc-4c56846b777f][Fraternidade das Brumas]].
+Toda a história é muito misteriosa e aparentemente nós também não poderemos falar sobre o assunto.
+
+Eu, Dare e Lucky ficamos meio desconfiados e decidimos dormir sobre o assunto.
+Ariadne manda Jane ir conosco para a taverna.
+
+Decidimos negociar o pagamento com [[id:9017d920-7dd4-4a16-8809-82afee8413f9][Liam]] no dia seguinte e, se não for adequado, esperar a situação piorar e o desespero deles aumentar. Eu tô bastante curiosa e com esperança de dar um jeito de cantar sobre o assunto.

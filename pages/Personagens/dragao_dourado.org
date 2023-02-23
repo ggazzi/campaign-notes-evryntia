@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       478a5f10-377a-4a95-8c0b-7e17c2461a69
+:END:
+#+title: Dragão Dourado
+#+author: Guilherme Grochau Azzi
+#+date: 2022-10-16
+#+hugo_lastmod: 2022-10-16
+#+hugo_section: Personagens
+* #Personagem
+

@@ -1,0 +1,46 @@
+#+tags: Personagem, Human, Bard
+
+* [[../../assets/lyanna_1668889018695_0.jpg]]
+* Descrição do ChatGPT
+** Lyanna is a human bard with striking good looks and a talent for entertaining. She comes from a remote farming village, where she was the eldest of seven siblings. At a young age, she discovered she had telepathic abilities, which made her hyper-aware of others' thoughts and feelings. When she was sixteen, she saw a troupe of bards perform in her village and knew immediately that she wanted to join them. She left her family behind and set off on her own, eventually joining a troupe and then teaming up with two tiefling siblings.
+** Lyanna is ambitious and driven, with a desire to become a legendary bard and storyteller. She is willing to seek out adventures and gather new experiences to add to her repertoire of songs and stories. Despite her outgoing and charismatic persona, she is somewhat naive and overconfident, and she tends to use her charisma and persuasiveness to get what she wants.
+** Lyanna is asexual and does not experience sexual attraction or have a low level of sexual attraction to others. She has cut ties with her family and struggles with guilt over leaving them behind. She is more focused on building a network of useful contacts and connections than forming genuine relationships, but deep down, she craves true connection and belonging.
+* Backstory
+** Crescendo na fazenda
+
+Lyanna é a filha mais velha de um casal de fazendeiros no interior de [[Niridia]]. Desde pequena demonstrou talento e interesse para música, cantando e criando seus próprios instrumentos rudimentares (uma flauta feita de um galho, um tambor de um pedaço oco de tronco). Esse era seu modo de competir por atenção, o que muitas vezes era difícil dado que tinha 6 irmãos e irmãs mais novos.
+
+Logo no início de sua puberdade, ela começou também a desenvolver habilidades telepáticas. Na primeira vez que ela tocou a mente de outra pessoa, um de seus irmãos mais novos, isso o assustou muito. Ela conseguiu persuadir o irmão de que fora um simples truque projetando sua voz, e desde então foi bastante cuidadosa no uso dessa habilidade.
+
+Por outro lado, ela entrava na mente dos outros sempre que possível. Isso a ajudava a entender como melhor capturar a atenção de todos com sua música.
+
+Assim foi sua vida até cerca de 16 anos: uma rotina monótona na fazenda, uma busca quase desesperada por atenção e o aperfeiçoamento autodidata de suas habilidades musicais. Também cuidava bastante de seus irmãos e irmãs, desenvolvendo um instinto quase maternal. Por outro lado, evitava todas as tarefas chatas ou manuais que podia, delegando para algum de seus irmãos e irmãs.
+** Na estrada com uma trupe
+
+Pouco depois de seu décimo-sexto aniversário, porém, sua vida mudou com a visita de uma trupe musical. Eles haviam tentado atalhar o seu caminho e se perderam pelos campos de Niridia, indo parar nessa região que raramente via esse tipo de grupo. Essa trupe trouxe consigo muitas histórias, canções e números que ninguém na vila jamais havia visto, capturando sua total atenção por uma longa noite.
+
+Decidida que essa seria a sua vida a partir de agora, Lyanna fugiu de casa no dia seguinte e seguiu a trupe de longe por alguns dias, se escondendo nas plantações de trigo que estavam no auge de seu crescimento. Durante esses dias e noites, observou a trupe de longe e absorveu tudo o que podia de seus ensaios.
+
+Quando chegaram na vila mais próxima, três dias depois, a trupe repetiu sua performance noturna. Em um dos seus números preferidos, Lyanna entrou no meio com sua flauta improvisada e um acompanhamento de sua criação. Apesar da surpresa da trupe, a performance foi muito bem recebida, e com isso ela pôde de fato se juntar ao grupo.
+
+Os quatro anos seguintes se passaram vagando por Niridia, memorizando novas histórias e canções, aperfeiçoando suas habilidades musicais. Com o tempo, Lyanna passou a se sentir estagnada, percebendo que sua trupe trazia o mesmo repertório que qualquer outra. De fato, se via a decepção do público quando outro grupo se apresentara há poucos dias, demandando que a trupe desviasse seu caminho para garantir que ganharia algumas moedas.
+
+Lyanna queria mais, queria se destacar. A oportunidade para isso veio com o crescimento das hostilidades entre Niridia e [[id:7d3d42d3-be4b-4bce-b24b-8cc555a5c8a8][Khreven]]. Tais conflitos são repletos de tragédias e heroísmo, de bravas lutas e covardes truques. O melhor material para canções de todos os tipos.
+
+Determinada a ser uma pioneira em relatar essas novas histórias, Lyanna se separou da trupe e procurou a [[id:389c7ba3-a51b-4281-ae6e-0e91c853cb1c][Brigada de Niridia]].
+** Se juntando aos irmãos tiefling
+
+Lyanna encontrou a Brigada em [[id:9e13a5d3-9bf1-4677-84cb-540d2144e173][Brenitte]], porém descobriu que não havia nenhuma operação interessante no momento.
+Se fosse se juntar à organização, teria que treinar para participar ativamente das operações e fazer tarefas chatas, em vez de apenas acompanhá-los e compôr novo repertório.
+That did not fit her french vanilla fantasy.
+
+Desistindo de se juntar à Brigada, tentou ganhar dinheiro nas tavernas de Brenitte e ouvir as histórias da caça aos mercenários para cantá-las. Ambas as ideias falharam, pois já haviam bardos bem estabelecidos na cidade, saturando as tavernas locais e já tendo explorado as histórias que Lyanna recém começara a ouvir.
+
+Após duas semanas nessa luta, Lyanna precisa de outra fonte de dinheiro. Resolve se juntar a algum grupo de aventureiros para fazer alguns bicos. A esperança é participar o mínimo possível, delegar o máximo possível, se sustentar por algum tempo e, quem sabe, até achar inspiração pra novas canções. Fica observando um mural em [[id:9e13a5d3-9bf1-4677-84cb-540d2144e173][Brenitte]] e abordando os grupos que passam por lá, mas vários a rejeitam. Por fim, aborda [[id:9f641a40-cb99-4fad-9139-2aa5ae1274ce][Dare]] e [[Lady Luck]] e consegue semi-convencê-los a se juntar.
+
+Acabam indo atrás de um pedido de ajuda por um fazendeiro dos arredores da cidade cujas ovelhas estavam desaparecendo aos poucos, com sinais de ataques. Era uma das poucas tarefas que ainda estavam disponíveis. Lyanna viu vários grupos olharem para ela e, ao ver o pagamento, fazerem cara feia. No fim das contas eram três lobos que tinham se alojado perto da fazenda. Lyanna conseguiu rastrar os lobos e tentou ficar o mais fora da luta possível. Dare e Lady Luck conseguiram afugentar os lobos e destruir a toca deles, e Lyanna curou quaisquer ferimentos depois pra tentar compensar o fato de não ter participado da luta.
+
+Nos dias seguintes Lyanna compôs uma canção embellishing essa aventura, sobre um lorde desesperado com os ataques de uma grande fera que atacava seu domínio toda a noite, devorando sempre 5 ovelhas e 2 camponeses. O lorde tentou buscar ajuda de aventureiros, mas toda vez que ele descrevia a besta monstruosa os grupos se assustavam e recusavam. Até que um dia um casal de irmãos destemidos apareceram. Segue a descrição de uma luta árdua, em que um dos irmãos é gravemente ferido e resgatado pelo outro, no fim triunfando sobre a besta. O lorde oferece vastas terras de seu domínio como recompensa, mas os irmãos recusam e aceitam apenas o ouro, pois outras aventuras os chamam.
+
+Após a quest, Lyanna conversou com Dare e Lady Luck, que disseram querer explorar o mundo e pretendiam ir mais a oeste, para ver lugares diferentes de onde eles vêm. Lyanna decide se juntar a eles: parece que assim ela consegue ganhar um pouco mais de dinheiro e começa a acumular experiência em aventuras. Durante a viagem, se prova útil por conhecer bem os caminhos de [[id:09a29eb0-0eb5-4856-93c4-1c913bfd1f16][Niridia]] e a sobrevivência na estrada (devido ao passado com sua trupe).
+*** TODO Como exatamente Dare e Lady Luck reagiram a Lyanna se juntando a eles?

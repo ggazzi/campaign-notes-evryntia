@@ -1,0 +1,14 @@
+:PROPERTIES:
+:ID:       ea236b2c-a4d2-4cb1-ba3a-fbd8b737a953
+:END:
+#+title: Lula Cinzenta
+#+author: Guilherme Grochau Azzi
+#+date: 2022-07-29
+#+hugo_lastmod: 2022-07-29
+#+hugo_section: Lugares
+
+
+* #Lugar
+
+* Taverna em [[id:9e13a5d3-9bf1-4677-84cb-540d2144e173][Brenitte]].
+O taverneiro, chamado Fint, é afável e um aliado da [[id:389c7ba3-a51b-4281-ae6e-0e91c853cb1c][Brigada de Niridia]], fornecendo informações a eles.

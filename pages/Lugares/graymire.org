@@ -1,0 +1,44 @@
+:PROPERTIES:
+:id: 874229de-7601-41d8-9d0d-298b06eb4820
+:END:
+#+tags: Lugar
+
+* Conhecida por ser um resort para pessoas ricas.
+Extremamente focado em turismo, também fazem roupas finas.
+Não há muralhas, como é típico de Niridia.
+
+É uma cidade muito antigas, com mais de 500 anos. Foi fundada por elfos capitalistas que nao se encaixavam nos valores de [[Gaelyra]]. 
+
+Na praça principal fica a sede do conselho da cidade.
+Tem cinco membros.
+
+Lakelords são os mercantes donos dos resorts ali, tem muita influencia política.
+
+Fundada por elfos que vieram.
+
+Nas margens do [[Lago Proibido]].
+No centro do lago há uma névoa, ninguém que se aventurou por lá jamais voltou.
+Lendas falam que esse plano material surgiu desse lugar com essa névoa.
+* Lojas
+
+Ferreiro: Lenny
+Loja de Aventureiros: Miria
+* Festival de Graymire
+:PROPERTIES:
+:id: 63793fad-a05c-47d1-a498-fad092f24ee4
+:END:
+
+No verão há um grande festival, celebrando o aniversário da cidade e reunindo muitas pessoas em busca de entretenimento.
+Na avenida e na praça principais, aparecem várias lojas temporárias vendendo comidas e outras coisas.
+Há várias atividades e competições durante.
+**
+* Conselho
+:PROPERTIES:
+:ID:       f6ee6518-550f-4e1e-9843-fff4e7eb812b
+:END:
+
+- [[id:1a31bb90-0bda-4b04-8d56-178274a2ad92][Lagrine]]: representante da burguesia
+- [[id:90ac266a-c36d-4abc-9098-2afe610eb196][Simon]]: representante dos nobres
+- [[id:1a949eff-033b-417d-b1da-136d666b0f09][Eruan]]: representante da "elite intelectual"
+- [[id:9017d920-7dd4-4a16-8809-82afee8413f9][Liam]]: o membro mais moderado, tenta conciliar a visão de Ariadne com os demais
+- [[id:fd5c4ab6-97c9-4793-bc27-b68924b81b35][Ariadne]]: mais ligada ao porto e à população não rica da cidade.

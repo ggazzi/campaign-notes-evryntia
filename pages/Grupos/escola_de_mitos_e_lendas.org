@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       5aaf62f8-d844-4a04-bfbb-401ee8a19ce8
+:END:
+#+title: Escola de Mitos e Lendas
+#+author: Guilherme Grochau Azzi
+#+date: 2022-08-28
+#+hugo_lastmod: 2022-08-28
+#+hugo_section: Grupos
+
+* #Grupo

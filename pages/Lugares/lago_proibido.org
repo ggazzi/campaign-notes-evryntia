@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       5f138c15-c5d9-4fe3-87a0-4f9b92ae0e43
+:END:
+#+title: Lago Proibido
+#+author: Guilherme Grochau Azzi
+#+date: 2022-10-16
+#+hugo_lastmod: 2022-10-16
+#+hugo_section: Lugares
+
+* #Lugar
+

@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       ec94e816-d38d-4170-87a1-84b4488157e7
+:END:
+#+title: Tankard of Sobriety
+#+author: Guilherme Grochau Azzi
+#+date: 2022-08-28
+#+hugo_lastmod: 2022-08-28
+#+hugo_section: Objetos
+
+* #Objeto

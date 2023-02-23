@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       24acd65c-3cae-4548-b828-e9d6e725a678
+:END:
+#+title: Suor e Sangue
+#+author: Guilherme Grochau Azzi
+#+date: 2022-07-29
+#+hugo_lastmod: 2022-07-29
+#+hugo_section: Grupos
+
+* #Grupo
+* Era um dos maiores e mais relevantes grupos de mercenários de Evryntia, até ser erradicado pela [[id:389c7ba3-a51b-4281-ae6e-0e91c853cb1c][Brigada de Niridia]] como vingança pelo massacre de [[id:ee4063a7-f18d-4bd1-a672-3dae26b17279][Fallendia]].

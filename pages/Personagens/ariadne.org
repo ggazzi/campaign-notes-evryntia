@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       fd5c4ab6-97c9-4793-bc27-b68924b81b35
+:END:
+#+title: Ariadne
+#+author: Guilherme Grochau Azzi
+#+date: 2022-07-31
+#+hugo_lastmod: 2022-10-16
+#+hugo_section: Personagens
+
+* #Personagem
+
+* 
+- Raça: ??
+
+Parte do [[id:f6ee6518-550f-4e1e-9843-fff4e7eb812b][Conselho de Graymire]] e da [[id:5faf082e-6eaf-43eb-90dc-4c56846b777f][Fraternidade das Brumas]].
+
+Cresceu em [[id:b919a33d-301d-417d-abf5-8123e28aef9d][Turmion]]: ela e a mãe estavam perdidas nas brumas do [[id:5f138c15-c5d9-4fe3-87a0-4f9b92ae0e43][Lago Proibido]] e foram resgatadas e levadas pra lá.

@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       31a5205f-1cb5-4f84-90da-95ae38af747e
+:END:
+#+title: Idrarus
+#+author: Guilherme Grochau Azzi
+#+date: 2022-07-28
+#+hugo_lastmod: 2022-07-28
+#+hugo_section: Lugares
+
+* #Lugar
+

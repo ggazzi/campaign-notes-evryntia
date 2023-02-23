@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       ee4063a7-f18d-4bd1-a672-3dae26b17279
+:END:
+#+title: Fallendia
+#+author: Guilherme Grochau Azzi
+#+date: 2022-07-28
+#+hugo_lastmod: 2022-07-29
+#+hugo_section: Lugares
+
+
+* #Lugar
+
+* Cidade controlada por [[id:31a5205f-1cb5-4f84-90da-95ae38af747e][Idrarus]] que costumava pertencer a [[id:09a29eb0-0eb5-4856-93c4-1c913bfd1f16][Niridia]], era a mais oriental de seu território. Recentemente foi tomada num ataque brutal, que foi executado pelos mercenários [[id:24acd65c-3cae-4548-b828-e9d6e725a678][Suor e Sangue]]. Isso resultou num saque da cidade, com os mercenários massacrando/aprisionando sua população. Isso aconteceu dois anos antes da campanha começar.
+
+Pouco depois do ataque, a coroa de Idrarus renegou os mercenários e negociou com [[id:f95275a7-63c8-413e-ae88-9a652089eee8][Ida Baruara]] para pagar sanções e ficar com posse de Fallendia.

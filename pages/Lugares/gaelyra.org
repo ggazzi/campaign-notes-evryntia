@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       e0cf71c7-786c-4154-8b87-e57ceeb6f7b7
+:END:
+#+title: Gaelyra
+#+author: Guilherme Grochau Azzi
+#+date: 2022-07-28
+#+hugo_lastmod: 2022-07-28
+#+hugo_section: Lugares
+
+* #Lugar
+
+* 
