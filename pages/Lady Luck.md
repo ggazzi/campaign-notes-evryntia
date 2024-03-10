@@ -1,4 +1,4 @@
-- tags:: Personagens, Tiefling, Artificer, A Liga
-  alias:: Lucky
+tags:: Personagens, Tiefling, Artificer, A Liga
+alias:: Lucky
 
 - Adora bebidas gaseificadas.

@@ -5,4 +5,4 @@
 
 *
 * Taverna em [[id:9e13a5d3-9bf1-4677-84cb-540d2144e173][Brenitte]].
-O taverneiro, chamado Fint, é afável e um aliado da [[id:389c7ba3-a51b-4281-ae6e-0e91c853cb1c][Brigada de Niridia]], fornecendo informações a eles.
+O taverneiro, chamado [[Edmar Fint]], é afável e um aliado da [[id:389c7ba3-a51b-4281-ae6e-0e91c853cb1c][Brigada de Niridia]], fornecendo informações a eles.
