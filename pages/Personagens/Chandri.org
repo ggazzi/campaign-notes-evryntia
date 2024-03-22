@@ -4,4 +4,4 @@
 #+tags: Personagens, Tiefling
 
 * É uma batedora dos observadores.
--
+*
