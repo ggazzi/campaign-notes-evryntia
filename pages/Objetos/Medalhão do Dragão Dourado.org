@@ -1,0 +1,10 @@
+:PROPERTIES:
+:id: 7bc939bc-8a69-44a9-885a-1b82283b9945
+:END:
+#+tags: Objeto
+
+- [[Lucky]] ficou com medalhão desde que [[Dare]] morreu ([[2023-11-12]])
+- Boons:
+	- Alabaster: Um uso de Greater restoration sem custo de componentes materiais (recarrega em 48hrs).
+	- Rosewind: Resistência a efeitos mentais - Usando uma bônus action, o portador do amuleto pode ativar uma proteção nele e nos usuários dos anéis-filhos que estejam a até 60 ft. dele na hora da ativação. Essa proteção confere vantagem em testes para resistir a qualquer efeito negativo mental e para resistir a dano psíquico. Essa habilidade pode ser usada uma vez por dia e dura por um minuto.
+	- Ilha: Um uso diário de death ward.

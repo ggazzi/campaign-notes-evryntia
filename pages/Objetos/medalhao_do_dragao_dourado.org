@@ -1,4 +1,0 @@
-:PROPERTIES:
-:id: 7bc939bc-8a69-44a9-885a-1b82283b9945
-:END:
-#+tags: Objeto
