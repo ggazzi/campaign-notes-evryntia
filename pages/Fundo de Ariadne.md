@@ -1,5 +1,6 @@
 - Caixinha comum d[[A Liga]], nomeada em honra da falecida [[Ariadne]]
 - | Data | Descrição | Entrada/Saída | Saldo (po) |
+  | [[2024-06-23]] | [Córax](((66784972-8d0d-45dc-9bb2-af7794362f5c))) | -10po | 131 |
   | [[2024-02-11]] | [Doação de Lucky](((65c8eeac-288b-4879-9cf9-46af6c7ee848))) | +4pp | 141 | 
   | [[2024-02-11]] | [Informações sobre doenças em Alabaster](((65c8e09e-2e4a-41cc-9879-9f215f507b79))) | -35po | 101 |
   | [[2024-02-11]] | [Materiais p/ upgrade de Chonk](((65c8de1a-29e7-40fd-9fee-a31c3088d7ba))) | -100po | 136 |
